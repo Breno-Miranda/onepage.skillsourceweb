@@ -23,7 +23,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/teste/aula5/';
+
+# http://localhost/teste/aula5/ url anterior
+
+$config['base_url'] = 'http://localhost/onepage.skillsourceweb/';
 
 /*
 |--------------------------------------------------------------------------
